@@ -1,0 +1,71 @@
+2020-09-19 02:10:45,148 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-19 02:10:50,055 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-19 02:10:56,607 [main] INFO com.base_class.Library - Launched the OrangeHRM Application
+2020-09-19 02:10:56,608 [main] INFO com.base_class.Library - Browser Launched
+2020-09-19 02:10:57,162 [main] INFO com.base_class.Library - Browser Login successfully
+2020-09-19 02:10:59,199 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-19 02:10:59,201 [main] INFO com.base_class.Library - Closing Browser
+2020-09-19 02:28:59,331 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-19 02:29:03,992 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-19 02:29:10,405 [main] INFO com.base_class.Library - Launched the OrangeHRM Application
+2020-09-19 02:29:10,405 [main] INFO com.base_class.Library - Browser Launched
+2020-09-19 02:29:10,632 [main] INFO com.base_class.Library - Entered Username and Password
+2020-09-19 02:29:14,920 [main] INFO com.base_class.Library - Login Button Clicked
+2020-09-19 02:29:15,364 [main] INFO com.base_class.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-19 02:29:16,875 [main] INFO com.base_class.Library - menu Admin button is clicked
+2020-09-19 02:29:17,053 [main] INFO com.base_class.Library - Username is Entered
+2020-09-19 02:29:17,475 [main] INFO com.base_class.Library - Usertype is selected
+2020-09-19 02:29:17,561 [main] INFO com.base_class.Library - Employee Name is Entered
+2020-09-19 02:29:17,987 [main] INFO com.base_class.Library - Status is Selected
+2020-09-19 02:29:18,608 [main] INFO com.base_class.Library - Search button is clicked
+2020-09-19 02:29:19,424 [main] INFO com.base_class.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-19 02:29:20,332 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-19 02:29:20,333 [main] INFO com.base_class.Library - Browser is Closed
+2020-09-19 02:29:20,362 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-19 02:29:24,536 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-19 02:29:30,580 [main] INFO com.base_class.Library - Launched the OrangeHRM Application
+2020-09-19 02:29:30,581 [main] INFO com.base_class.Library - Browser Launched
+2020-09-19 02:29:30,734 [main] INFO com.base_class.Library - Entered Username and Password
+2020-09-19 02:29:35,065 [main] INFO com.base_class.Library - Login Button Clicked
+2020-09-19 02:29:35,474 [main] INFO com.base_class.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-19 02:29:36,947 [main] INFO com.base_class.Library - menu Admin button is clicked
+2020-09-19 02:29:37,069 [main] INFO com.base_class.Library - Username is Entered
+2020-09-19 02:29:37,185 [main] INFO com.base_class.Library - Usertype is selected
+2020-09-19 02:29:37,306 [main] INFO com.base_class.Library - Employee Name is Entered
+2020-09-19 02:29:37,646 [main] INFO com.base_class.Library - Status is Selected
+2020-09-19 02:29:38,259 [main] INFO com.base_class.Library - Search button is clicked
+2020-09-19 02:29:38,731 [main] INFO com.base_class.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-19 02:29:39,433 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-19 02:29:39,434 [main] INFO com.base_class.Library - Browser is Closed
+2020-09-19 02:49:41,231 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-19 02:49:48,056 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-19 02:49:53,857 [main] INFO com.base_class.Library - Launched the OrangeHRM Application
+2020-09-19 02:49:53,857 [main] INFO com.base_class.Library - Browser Launched
+2020-09-19 02:49:54,100 [main] INFO com.base_class.Library - Entered Username and Password
+2020-09-19 02:49:58,355 [main] INFO com.base_class.Library - Login Button Clicked
+2020-09-19 02:49:58,736 [main] INFO com.base_class.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-19 02:50:00,158 [main] INFO com.base_class.Library - menu Admin button is clicked
+2020-09-19 02:50:00,262 [main] INFO com.base_class.Library - Username is Entered
+2020-09-19 02:50:00,440 [main] INFO com.base_class.Library - Usertype is selected
+2020-09-19 02:50:00,537 [main] INFO com.base_class.Library - Employee Name is Entered
+2020-09-19 02:50:01,549 [main] INFO com.base_class.Library - Status is Selected
+2020-09-19 02:50:02,480 [main] INFO com.base_class.Library - Search button is clicked
+2020-09-19 02:50:03,336 [main] INFO com.base_class.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-19 02:50:04,054 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-19 02:50:04,055 [main] INFO com.base_class.Library - Browser is Closed
+2020-09-19 02:50:04,198 [main] INFO com.base_class.Library - Starting with Browser Set Up
+2020-09-19 02:50:08,390 [main] INFO com.base_class.Library - Identified the browser as chrome. Launching the browser
+2020-09-19 02:50:13,778 [main] INFO com.base_class.Library - Launched the OrangeHRM Application
+2020-09-19 02:50:13,778 [main] INFO com.base_class.Library - Browser Launched
+2020-09-19 02:50:13,945 [main] INFO com.base_class.Library - Entered Username and Password
+2020-09-19 02:50:16,721 [main] INFO com.base_class.Library - Login Button Clicked
+2020-09-19 02:50:18,513 [main] INFO com.base_class.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-19 02:50:20,022 [main] INFO com.base_class.Library - menu Admin button is clicked
+2020-09-19 02:50:20,138 [main] INFO com.base_class.Library - Username is Entered
+2020-09-19 02:50:20,257 [main] INFO com.base_class.Library - Usertype is selected
+2020-09-19 02:50:20,342 [main] INFO com.base_class.Library - Employee Name is Entered
+2020-09-19 02:50:20,658 [main] INFO com.base_class.Library - Status is Selected
+2020-09-19 02:50:21,702 [main] INFO com.base_class.Library - Search button is clicked
+2020-09-19 02:50:22,111 [main] INFO com.base_class.Library - Taken Screenshot Of Login Page And Title printed in console
+2020-09-19 02:50:22,800 [main] INFO com.base_class.Library - Exiting the application and closing the browser
+2020-09-19 02:50:22,800 [main] INFO com.base_class.Library - Browser is Closed
