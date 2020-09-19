@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 12820000000,
+              "duration": 11295000000,
               "status": "passed"
             },
             "line": 4,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 237000000,
+              "duration": 470000000,
               "status": "passed"
             },
             "line": 5,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 4255000000,
+              "duration": 4369000000,
               "status": "passed"
             },
             "line": 6,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 380000000,
+              "duration": 470000000,
               "status": "passed"
             },
             "line": 7,
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-09-18T21:19:40.948Z",
+        "start_timestamp": "2020-09-19T14:56:07.113Z",
         "line": 21,
         "name": "To Test the Admin Functionality of OrangeHrm",
         "description": "",
@@ -70,7 +70,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1421000000,
+              "duration": 2023000000,
               "status": "passed"
             },
             "line": 10,
@@ -82,7 +82,7 @@
           },
           {
             "result": {
-              "duration": 103000000,
+              "duration": 210000000,
               "status": "passed"
             },
             "line": 11,
@@ -100,7 +100,7 @@
           },
           {
             "result": {
-              "duration": 177000000,
+              "duration": 214000000,
               "status": "passed"
             },
             "line": 12,
@@ -118,7 +118,7 @@
           },
           {
             "result": {
-              "duration": 97000000,
+              "duration": 94000000,
               "status": "passed"
             },
             "line": 13,
@@ -130,7 +130,7 @@
           },
           {
             "result": {
-              "duration": 1011000000,
+              "duration": 153000000,
               "status": "passed"
             },
             "line": 14,
@@ -142,7 +142,7 @@
           },
           {
             "result": {
-              "duration": 931000000,
+              "duration": 728000000,
               "status": "passed"
             },
             "line": 15,
@@ -154,7 +154,7 @@
           },
           {
             "result": {
-              "duration": 855000000,
+              "duration": 914000000,
               "status": "passed"
             },
             "line": 16,
@@ -166,7 +166,7 @@
           },
           {
             "result": {
-              "duration": 719000000,
+              "duration": 746000000,
               "status": "passed"
             },
             "line": 17,
@@ -187,7 +187,7 @@
         "steps": [
           {
             "result": {
-              "duration": 9583000000,
+              "duration": 9726000000,
               "status": "passed"
             },
             "line": 4,
@@ -199,7 +199,7 @@
           },
           {
             "result": {
-              "duration": 168000000,
+              "duration": 171000000,
               "status": "passed"
             },
             "line": 5,
@@ -211,7 +211,7 @@
           },
           {
             "result": {
-              "duration": 2775000000,
+              "duration": 4755000000,
               "status": "passed"
             },
             "line": 6,
@@ -223,7 +223,7 @@
           },
           {
             "result": {
-              "duration": 1793000000,
+              "duration": 573000000,
               "status": "passed"
             },
             "line": 7,
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-09-18T21:20:04.194Z",
+        "start_timestamp": "2020-09-19T14:56:29.144Z",
         "line": 22,
         "name": "To Test the Admin Functionality of OrangeHrm",
         "description": "",
@@ -246,7 +246,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1509000000,
+              "duration": 2065000000,
               "status": "passed"
             },
             "line": 10,
@@ -258,7 +258,7 @@
           },
           {
             "result": {
-              "duration": 115000000,
+              "duration": 146000000,
               "status": "passed"
             },
             "line": 11,
@@ -276,7 +276,7 @@
           },
           {
             "result": {
-              "duration": 119000000,
+              "duration": 202000000,
               "status": "passed"
             },
             "line": 12,
@@ -294,7 +294,7 @@
           },
           {
             "result": {
-              "duration": 84000000,
+              "duration": 159000000,
               "status": "passed"
             },
             "line": 13,
@@ -306,7 +306,7 @@
           },
           {
             "result": {
-              "duration": 317000000,
+              "duration": 265000000,
               "status": "passed"
             },
             "line": 14,
@@ -318,7 +318,7 @@
           },
           {
             "result": {
-              "duration": 1044000000,
+              "duration": 677000000,
               "status": "passed"
             },
             "line": 15,
@@ -330,7 +330,7 @@
           },
           {
             "result": {
-              "duration": 407000000,
+              "duration": 922000000,
               "status": "passed"
             },
             "line": 16,
@@ -342,7 +342,7 @@
           },
           {
             "result": {
-              "duration": 690000000,
+              "duration": 811000000,
               "status": "passed"
             },
             "line": 17,
